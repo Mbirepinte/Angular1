@@ -1,0 +1,16 @@
+div{
+display: flex;
+flex-direction: column;
+}
+
+img {
+    width: 30%;
+}
+
+input {
+    width: 30%;
+}
+
+button {
+    width: 30%;
+}
